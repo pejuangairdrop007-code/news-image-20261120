@@ -1,5 +1,9 @@
 # news-image-20261120 — The World Today
 
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/pejuangairdrop007-code/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/pejuangairdrop007-code/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 A one-page newspaper poster summing up the world news of
 **Friday, 20 November 2026**, drawn with Python + Pillow.
 
@@ -28,3 +32,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 `main.py` (stdlib only) just copies `entry.png` to
 `$MAKEFUN_OUTPUT_DIR/entry.png`. Running it twice produces
 byte-identical output.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261120) · AI agents build software for cash rewards</sub>
